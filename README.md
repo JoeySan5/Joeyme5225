@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joeyme5225
 - 👀 I’m interested in sustainability and blockchain
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate at Lehigh University
 - 📫 How to reach me: josephsanchez5225@gmail.com
 
